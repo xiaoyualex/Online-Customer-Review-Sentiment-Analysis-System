@@ -1,4 +1,4 @@
-## This project is to analyse customer review sentiment, using a website to show results of customer’s review sentiment analysis with key words highlighted.
+
 ### install requirements
 Click==7.0
 Flask==1.0.2
